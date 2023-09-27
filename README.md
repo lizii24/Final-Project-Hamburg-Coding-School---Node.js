@@ -1,4 +1,4 @@
-﻿# Final-Project-Hamburg-Coding-School---Node.js
+﻿# Final Project Hamburg Coding-School - Node.js
 
 A simple travel bog app with Vue.js and Node.js.
 
@@ -13,7 +13,7 @@ A simple travel bog app with Vue.js and Node.js.
 
 As a junior, this is my final project for the Full-Stack Web Development program at Hamburg Coding School.
 The goal was to create a travel blog in a Vue app that pulls data from MySQL via Node.  
-This is the first component: Node.js.
+This is the first component: Node.js
 
 ## Technologies
 
