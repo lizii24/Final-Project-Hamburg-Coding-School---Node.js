@@ -1,4 +1,4 @@
-﻿# Final Project Hamburg Coding-School - Node.js
+﻿# Final Project Hamburg Coding School - Node.js
 
 A simple travel bog app with Vue.js and Node.js.
 
