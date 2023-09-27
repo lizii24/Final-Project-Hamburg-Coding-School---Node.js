@@ -12,7 +12,7 @@ A simple travel bog app with Vue.js and Node.js.
 ## General info
 
 As a junior, this is my final project for the Full-Stack Web Development program at Hamburg Coding School.
-The goal was to create a travel blog in a Vue app that pulls data from MySQL via Node.
+The goal was to create a travel blog in a Vue app that pulls data from MySQL via Node.  
 This is the first component: Node.js.
 
 ## Technologies
@@ -39,7 +39,7 @@ $ git clone https://github.com/lizii24/Final-Project-Hamburg-Coding-School---Vue
 $ git clone https://github.com/lizii24/Final-Project-Hamburg-Coding-School---Node.js
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd Final-Project-Hamburg-Coding-School---Node.js
 
 # Install dependencies
 $ npm install
